@@ -1,0 +1,4 @@
+name: NeoBungeeSystem
+version: '${project.version}'
+main: net.neounity.neobungeesystem.NeoBungeeSystem
+description: Unser BungeeSystem!
